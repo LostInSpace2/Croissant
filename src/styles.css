@@ -2,11 +2,11 @@ body {
     background: #79c5f8;
 }
 
-h1, p, div {
+h1, p, footer {
     text-align: center;
 }
 
-div a {
+footer a {
     margin: 0 10px;
     color: rgb(231, 229, 79);
 }
